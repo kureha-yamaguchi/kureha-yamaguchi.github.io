@@ -6,7 +6,7 @@ subtitle: <a href='#'>The Alan Turing Institute</a>. London, UK.
 
 profile:
   align: right
-  image: ky_pic1.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
