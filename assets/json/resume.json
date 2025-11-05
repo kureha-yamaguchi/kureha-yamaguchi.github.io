@@ -1,10 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kureha Yamaguchi",
+    "label": "AI Security Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "ky295 [at] cantab [dot] ac [dot] uk",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
@@ -47,8 +46,8 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "University of Cambridge",
+      "location": "Cambridge, UK",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
