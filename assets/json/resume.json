@@ -157,17 +157,12 @@
     {
       "language": "English",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-flag-uk"
     },
     {
       "language": "Japanese",
       "fluency": "Fluent",
-      "icon": ""
-    },
-    {
-      "language": "German",
-      "fluency": "Basic",
-      "icon": ""
+      "icon": "fa-flag-jp"
     }
   ]
 }
