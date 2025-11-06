@@ -8,7 +8,14 @@
       "studyType": "B.A, M.A. & MEng with Honours",
       "startDate": "Oct 2018",
       "endDate": "Jun 2022",
-      "courses": ["Computational Statistics", "Machine Learning", "Deep Learning", "Statistical Signal Analysis", "Data Transmission", "Information Theory and Coding"]
+      "courses": [
+        "Computational Statistics",
+        "Machine Learning",
+        "Deep Learning",
+        "Statistical Signal Analysis",
+        "Data Transmission",
+        "Information Theory and Coding"
+      ]
     }
   ],
   "relevant experience": [
@@ -18,16 +25,15 @@
       "url": "https://www.turing.ac.uk/",
       "startDate": "Sep 2023",
       "endDate": "Present",
-      "highlights": 
-          [
-            "Researching AI Security and Safety within the Turing’s Defence and National Security programme, with UK Government stakeholders and academic collaborators",
-            "Demonstrating and presenting my AI research at AIUK, Royal Astronomical Society, Government research workshops and showcases, as well as at academic conferences and stakeholder meetings",
-            "Serving as a technical advisor to shape Ministry of Defence (MoD) guidance on Dependable AI in Defence (JSP 936)",
-            "Contributing to the open-source MITRE ATLAS matrix following collaborative research on ‘Vulnerabilities in Critical Governmental Use of Large Language Model-based Analysis Tools’",
-            "Engaging in cross-organizational collaboration to co-organise the Women in AI Security Workshop 2024 and 2025, bringing together experts across government, academia, and industry",
-            "Winning first place at the UK MoD x Google Cloud Hackathon- the judging panel consisted of Senior HM Government leaders and Google’s technology leadership, including GCHQ’s Chief Data Scientist, Head of DAIC, and Google Cloud’s Vice President of Engineering",
-            "Building leading-edge Reinforcement Learning systems through close collaboration with stakeholders at the Foreign Office to improve detection of possible hostile activity in UK’s Arctic Mission"
-          ]
+      "highlights": [
+        "Researching AI Security and Safety within the Turing’s Defence and National Security programme, with UK Government stakeholders and academic collaborators",
+        "Demonstrating and presenting my AI research at AIUK, Royal Astronomical Society, Government research workshops and showcases, as well as at academic conferences and stakeholder meetings",
+        "Serving as a technical advisor to shape Ministry of Defence (MoD) guidance on Dependable AI in Defence (JSP 936)",
+        "Contributing to the open-source MITRE ATLAS matrix following collaborative research on ‘Vulnerabilities in Critical Governmental Use of Large Language Model-based Analysis Tools’",
+        "Engaging in cross-organizational collaboration to co-organise the Women in AI Security Workshop 2024 and 2025, bringing together experts across government, academia, and industry",
+        "Winning first place at the UK MoD x Google Cloud Hackathon- the judging panel consisted of Senior HM Government leaders and Google’s technology leadership, including GCHQ’s Chief Data Scientist, Head of DAIC, and Google Cloud’s Vice President of Engineering",
+        "Building leading-edge Reinforcement Learning systems through close collaboration with stakeholders at the Foreign Office to improve detection of possible hostile activity in UK’s Arctic Mission"
+      ]
     },
     {
       "name": "Supervised Program for Alignment Research",
@@ -35,11 +41,10 @@
       "url": "https://sparai.org/",
       "startDate": "Feb 2025",
       "endDate": "May 2025",
-      "highlights": 
-          [
-            "Leading applied mechanistic interpretability research under the mentorship of Andy Arditi (former Anthropic AI Safety Fellow), and publishing the research at ICML 2025 R2-FM Workshop",
-            "Winning the first place $2,000 prize for my research fellowship presentation on ‘Adversarial Manipulation of Reasoning Models using Internal Representations’"
-          ]
+      "highlights": [
+        "Leading applied mechanistic interpretability research under the mentorship of Andy Arditi (former Anthropic AI Safety Fellow), and publishing the research at ICML 2025 R2-FM Workshop",
+        "Winning the first place $2,000 prize for my research fellowship presentation on ‘Adversarial Manipulation of Reasoning Models using Internal Representations’"
+      ]
     },
     {
       "name": "Climate Change AI (CCAI)",
@@ -47,11 +52,10 @@
       "url": "https://www.climatechange.ai/",
       "startDate": "Oct 2021",
       "endDate": "Dec 2023",
-      "highlights": 
-          [
-            "Reviewing academic papers submitted to CCAI’s workshops on ‘Tackling Climate Change with Machine Learning’ at leading international AI/ML conferences, ICML and NeurIPS",
-            "Managing a rapidly growing community platform of +7, 000 members which serves to catalyse impactful work at the intersection of climate change and machine learning by driving interdisciplinary collaboration between technical and subject matter experts"
-          ]
+      "highlights": [
+        "Reviewing academic papers submitted to CCAI’s workshops on ‘Tackling Climate Change with Machine Learning’ at leading international AI/ML conferences, ICML and NeurIPS",
+        "Managing a rapidly growing community platform of +7, 000 members which serves to catalyse impactful work at the intersection of climate change and machine learning by driving interdisciplinary collaboration between technical and subject matter experts"
+      ]
     },
     {
       "name": "Okinawa Institute of Science and Technology Graduate University",
@@ -59,12 +63,11 @@
       "url": "https://www.oist.jp/",
       "startDate": "Jul 2021",
       "endDate": "Sep 2021",
-      "highlights": 
-          [
-            "Providing practical embedded hardware and software support for multi-purpose, multi-sensor autonomous systems at the Neural Computation Unit under Professor Kenji Doya",
-            "Developing software (Python, Java, Git) to efficiently and robustly implement the model-based policy search learning framework, ‘Probabilistic Inference for Particle-Based Policy Search’ (Parmas et al., 2018), for an ambitious real-world robot balancing task",
-            "Exercising good coding practices when writing, testing and deploying production code, such as design pattern implementation, Git version control, technical documentation, issue tracking and unit testing"
-          ]
+      "highlights": [
+        "Providing practical embedded hardware and software support for multi-purpose, multi-sensor autonomous systems at the Neural Computation Unit under Professor Kenji Doya",
+        "Developing software (Python, Java, Git) to efficiently and robustly implement the model-based policy search learning framework, ‘Probabilistic Inference for Particle-Based Policy Search’ (Parmas et al., 2018), for an ambitious real-world robot balancing task",
+        "Exercising good coding practices when writing, testing and deploying production code, such as design pattern implementation, Git version control, technical documentation, issue tracking and unit testing"
+      ]
     },
     {
       "name": "Cambridge University Robotics x Google DeepMind",
@@ -72,12 +75,11 @@
       "url": "https://www.curobotics.co.uk/",
       "startDate": "Dec 2019",
       "endDate": "Aug 2020",
-      "highlights": 
-          [
-            "Advancing reinforcement learning research in collaboration with Deepmind and the Bio-Inspired Robotics Laboratory, which required exercising my problem-solving skills and ability to learn quickly",
-            "Developing edge AI methods in a simulated environment, adapted from OpenAI gym",
-            "Collaborating with research colleagues and technical experts from Google DeepMind to apply novel AI algorithms, engineering and embedded hardware techniques"
-          ]
+      "highlights": [
+        "Advancing reinforcement learning research in collaboration with Deepmind and the Bio-Inspired Robotics Laboratory, which required exercising my problem-solving skills and ability to learn quickly",
+        "Developing edge AI methods in a simulated environment, adapted from OpenAI gym",
+        "Collaborating with research colleagues and technical experts from Google DeepMind to apply novel AI algorithms, engineering and embedded hardware techniques"
+      ]
     },
     {
       "name": "Impact Through Innovation Cambridge",
@@ -85,10 +87,9 @@
       "url": "https://centreforglobalequality.org/member/impact-innovation-cambridge-itic/",
       "startDate": "Jun 2020",
       "endDate": "Jul 2021",
-      "highlights": 
-          [
-            "Managing an audacious portfolio of high impact projects in an interdisciplinary student team, through a culture of rapid prototyping and relentless problem-solving for innovating under ambiguity"
-          ]
+      "highlights": [
+        "Managing an audacious portfolio of high impact projects in an interdisciplinary student team, through a culture of rapid prototyping and relentless problem-solving for innovating under ambiguity"
+      ]
     },
     {
       "name": "City, University of London",
@@ -96,10 +97,9 @@
       "url": "https://centreforglobalequality.org/member/impact-innovation-cambridge-itic/",
       "startDate": "Jun 2017",
       "endDate": "Jul 2017",
-      "highlights": 
-          [
-            "Embodying the laboratory’s cutting-edge research outputs through rapid hardware prototyping, programming, constructing electrical circuits, supervised under Professor Panicos Kyriacou"
-          ]
+      "highlights": [
+        "Embodying the laboratory’s cutting-edge research outputs through rapid hardware prototyping, programming, constructing electrical circuits, supervised under Professor Panicos Kyriacou"
+      ]
     }
   ],
   "awards": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Machine Learning",
+      "name": "Machine Learning/ AI",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Pytorch (proficient)",
