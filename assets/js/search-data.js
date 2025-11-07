@@ -11,10 +11,17 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "Below is my CV, as of September 2026",
+          description: "Below is my CV, as of September 2025",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -29,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
           },
         },{id: "post-a-post-with-plotly-js",
         
