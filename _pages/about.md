@@ -23,4 +23,4 @@ Hi! I'm Kureha (pronounced cray.ha)- an AI Researcher at UK’s National Institu
 
 Prior to research, I was at the <a href='https://www.cam.ac.uk/'>University of Cambridge</a> completing my undergraduate and master's degrees in Information and Computer Engineering, supported by a scholarship from the Institution of Engineering and Technology.
 
-I love coding, and I really care about problem-solving in a socially responsible way that actually benefits humanity in the long-term. Still figuring it all out and enjoying the process- thanks for visiting my page!
+I love coding, and I really care about problem-solving in a socially responsible way that actually benefits humanity. Still figuring it all out and enjoying the process- thanks for visiting my page!
