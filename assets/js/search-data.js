@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "Below is my CV, as of September 2025",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-project-garden",
-          title: "project garden",
-          description: "A garden for some projects of mine.",
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A garden 🌱 for some projects of mine.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
