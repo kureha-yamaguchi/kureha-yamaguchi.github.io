@@ -35,6 +35,11 @@ ninja.data = [{
           description: "I&#39;ve taken my film camera on a few trips now, here&#39;s some that I&#39;ve taken that I&#39;m particularly fond of.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/craft/";
+            },},{id: "projects-automated-fuzzing-harness-generator-for-patch-completeness-testing",
+          title: 'automated fuzzing harness generator for patch completeness testing',
+          description: "Automatically generating a set of fuzzing harnesses conditioned on the root cause of the reported vulnerability to surface sibling bugs in candidate patches for patch completeness testing.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fuzzing-harness/";
             },},{id: "projects-where-do-reasoning-models-refuse",
           title: 'where do reasoning models refuse?',
           description: "Investigating where safety decisions are made in reasoning models, through statistical and mechanistic techniques, uncovering interesting differences in reasoning patterns!",
