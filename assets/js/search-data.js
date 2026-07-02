@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "projects-film",
           title: 'film',
-          description: "I love honing a craft — whether it&#39;s sport or art. I&#39;ve taken my film camera on a few trips now, here&#39;s some that I&#39;ve taken that I&#39;m particularly fond of.",
+          description: "I&#39;ve taken my film camera on a few trips now, here&#39;s some that I&#39;ve taken that I&#39;m particularly fond of.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/craft/";
             },},{id: "projects-where-do-reasoning-models-refuse",
