@@ -30,13 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "projects-film",
+        },{id: "projects-project-canary",
+          title: 'project canary',
+          description: "Collecting TTPs and behavioural fingerprints from a bunch of AI agents interfacing with vulnerable web apps, and mapping them to the MITRE ATT&amp;CK matrix",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/canary/";
+            },},{id: "projects-film",
           title: 'film',
           description: "I&#39;ve taken my film camera on a few trips now, here&#39;s some that I&#39;ve taken that I&#39;m particularly fond of.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/craft/";
-            },},{id: "projects-automated-fuzzing-harness-generator-for-patch-completeness-testing",
-          title: 'automated fuzzing harness generator for patch completeness testing',
+            },},{id: "projects-fuzzing-harness-generator-for-patch-completeness-testing",
+          title: 'fuzzing harness generator for patch completeness testing',
           description: "Automatically generating a set of fuzzing harnesses conditioned on the root cause of the reported vulnerability to surface sibling bugs in candidate patches for patch completeness testing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fuzzing-harness/";
