@@ -1,9 +1,9 @@
 ---
 layout: page
-title: automated fuzzing harness generator for patch completeness testing
+title: fuzzing harness generator for patch completeness testing
 description: Automatically generating a set of fuzzing harnesses conditioned on the root cause of the reported vulnerability to surface sibling bugs in candidate patches for patch completeness testing.
 img: assets/img/fuzzing_harness/harness_gen_tp.png
-importance: 3
+importance: 2
 ---
 
 **Code**: [https://github.com/kureha-yamaguchi/vuln-patch](https://github.com/kureha-yamaguchi/vuln-patch)
