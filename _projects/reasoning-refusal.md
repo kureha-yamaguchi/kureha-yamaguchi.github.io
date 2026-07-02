@@ -6,13 +6,15 @@ img: assets/img/reasoning_refusal/cot_variance_chart.png
 importance: 1
 ---
 
-# Where Do Reasoning Models Refuse?
-
 **Context**: I started this project as a research fellow at the Supervised Program for Alignment Research (SPAR), mentored by Andy Arditi. We've since published v1 at ICML 2025 Reliable and Responsible Foundation Models Workshop and v2 at ICML 2026 Mechanistic Interpretability Workshop.
+
 **Paper**: [https://arxiv.org/abs/2507.03167](https://arxiv.org/abs/2507.03167)
+
 **Code**: [https://github.com/kureha-yamaguchi/reasoning-manipulation](https://github.com/kureha-yamaguchi/reasoning-manipulation)
 
+
 ### Motivation:
+
 
 Chat models without chain-of-thought (CoT) reasoning must decide whether to refuse a harmful request before generating their first response token. Reasoning models, by contrast, produce extended chains of thought before their final output, raising a natural question: where do reasoning models refuse?
 

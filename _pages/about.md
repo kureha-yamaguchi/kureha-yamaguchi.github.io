@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Kureha (pronounced cray.ha)- an AI Researcher at UK’s National Institute for Data Science and AI, also known as <a href='https://www.turing.ac.uk/'>The Alan Turing Institute</a>. I investigate AI system vulnerabilities and develop secure ML solutions within the Turing's Defence and National Security programme. We specialise in delivering impact-driven frontier research and engineering, working with UK Government stakeholders, industry partners and academic collaborators.
+Hi! I'm Kureha (pronounced cray.ha)- an AI Researcher at UK’s National Institute for Data Science and AI, also known as <a href='https://www.turing.ac.uk/'>The Alan Turing Institute</a>. I investigate AI system vulnerabilities and develop secure ML solutions, delivering impact-driven frontier research and engineering within the Turing's Defence and National Security programme.
 
 Prior to research, I was at the <a href='https://www.cam.ac.uk/'>University of Cambridge</a> completing my undergraduate and master's degrees in Information and Computer Engineering, supported by a scholarship from the Institution of Engineering and Technology.
 
