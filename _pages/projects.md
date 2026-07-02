@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: project garden
 permalink: /projects/
-description: A growing collection of my projects.
+description: A garden for some projects of mine.
 nav: true
 nav_order: 3
 horizontal: false
