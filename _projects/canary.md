@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project canary
-description: Collecting TTPs and behavioural fingerprints from a bunch of AI agents interfacing with vulnerable web apps, and mapping them to the MITRE ATT&CK matrix
+description: Collecting TTPs and behavioural fingerprints from a bunch of AI agents interfacing with vulnerable web apps, and mapping them onto the MITRE ATT&CK matrix
 img: assets/img/canary/event.png
 importance: 3
 ---
@@ -10,9 +10,10 @@ importance: 3
 
 **Code**: [https://github.com/kureha-yamaguchi/canary](https://github.com/kureha-yamaguchi/canary)
 
+
 ### Motivation:
 
-Cybersecurity has a massive data problem. There is a lack of threat intelligence sharing and cybersecurity datasets, leaving cybersecurity experts in the dark and leaving organisations vulnerable if the capabilities of hackers were to rapidly increase unknowingly. This is a bottleneck in more advanced defensive techniques such as early warning system creation. 
+Cybersecurity has a massive data problem. There is a lack of threat intelligence sharing and cybersecurity datasets, leaving cybersecurity experts in the dark and leaving organisations vulnerable if the capabilities of hackers were to rapidly increase unknowingly. This is a bottleneck in more advanced defensive techniques such as early warning system creation.
 
 ### Our solution:
 
