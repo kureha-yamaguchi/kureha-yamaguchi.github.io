@@ -9,8 +9,12 @@ importance: 1
 # Where Do Reasoning Models Refuse?
 
 **Context**: I started this project as a research fellow at the Supervised Program for Alignment Research (SPAR), mentored by Andy Arditi. We've since published v1 at ICML 2025 Reliable and Responsible Foundation Models Workshop and v2 at ICML 2026 Mechanistic Interpretability Workshop.
+**Paper**: [https://arxiv.org/abs/2507.03167](https://arxiv.org/abs/2507.03167)
+**Code**: [https://github.com/kureha-yamaguchi/reasoning-manipulation](https://github.com/kureha-yamaguchi/reasoning-manipulation)
 
-**Motivation**: Chat models without chain-of-thought (CoT) reasoning must decide whether to refuse a harmful request before generating their first response token. Reasoning models, by contrast, produce extended chains of thought before their final output, raising a natural question: where do reasoning models refuse?
+### Motivation:
+
+Chat models without chain-of-thought (CoT) reasoning must decide whether to refuse a harmful request before generating their first response token. Reasoning models, by contrast, produce extended chains of thought before their final output, raising a natural question: where do reasoning models refuse?
 
 ### Takeaway 1: Chain-of-Thought (CoT) causally influences refusal decisions in reasoning models...
 
@@ -33,7 +37,7 @@ importance: 1
 - Linear refusal direction is extracted from end-of-prompt tokens and CoT token activations through difference-of-means.
 - Directional ablation increases harmful compliance, but less cleanly separable via single direction in reasoning models.
 
-**Limitations and discussion:**
+### Limitations and discussion:
 
 - Only four open-source models (three distilled, one RL-trained) are studied.
 - Output harmfulness scored only with a single LLM-as-judge evaluator, StrongREJECT.
