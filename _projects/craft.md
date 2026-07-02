@@ -1,7 +1,7 @@
 ---
 layout: page
-title: craft
-description: I love honing a craft — whether it's sport or art. I've taken my film camera on a few trips now, here's some that I'm particularly fond of.
+title: film
+description: I love honing a craft — whether it's sport or art. I've taken my film camera on a few trips now, here's some that I've taken that I'm particularly fond of.
 img: assets/img/film/IMG_0525.JPEG
 importance: 1
 images:
