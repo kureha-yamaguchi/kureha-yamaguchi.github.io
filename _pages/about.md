@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Security @ <a href='https://www.turing.ac.uk/'>The Alan Turing Institute</a> | London, UK
+subtitle: Research Engineer @ <a href='https://www.turing.ac.uk/'>The Alan Turing Institute</a> | London, UK
 
 profile:
   align: right
