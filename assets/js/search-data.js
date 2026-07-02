@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of my projects.",
+        },{id: "nav-project-garden",
+          title: "project garden",
+          description: "A garden for some projects of mine.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -35,6 +35,11 @@ ninja.data = [{
           description: "I love honing a craft — whether it&#39;s sport or art. I&#39;ve taken my film camera on a few trips now, here&#39;s some that I&#39;ve taken that I&#39;m particularly fond of.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/craft/";
+            },},{id: "projects-where-do-reasoning-models-refuse",
+          title: 'where do reasoning models refuse?',
+          description: "Investigating where safety decisions are made in reasoning models, through statistical and mechanistic techniques, uncovering interesting differences in reasoning patterns!",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/reasoning-refusal/";
             },},{
         id: 'social-email',
         title: 'email',
