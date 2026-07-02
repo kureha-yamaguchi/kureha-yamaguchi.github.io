@@ -25,7 +25,7 @@ images:
         {% include figure.liquid path="assets/img/film/IMG_3582.JPEG" class="img-fluid rounded z-depth-1" %}
       </a>
     </div>
-    <div class="col mb-3">
+    <div class="col-md-8 mb-3">
       <a href="{{ 'assets/img/film/IMG_3589.JPEG' | relative_url }}" data-pswp-width="3089" data-pswp-height="2048" target="_blank">
         {% include figure.liquid path="assets/img/film/IMG_3589.JPEG" class="img-fluid rounded z-depth-1" %}
       </a>
@@ -60,7 +60,7 @@ images:
         {% include figure.liquid path="assets/img/film/IMG_1023.JPEG" class="img-fluid rounded z-depth-1" %}
       </a>
     </div>
-    <div class="col mb-3">
+    <div class="col-md-8 mb-3">
       <a href="{{ 'assets/img/film/6499289f-31db-4fbb-abd0-2edf03b63f07.JPEG' | relative_url }}" data-pswp-width="1545" data-pswp-height="1024" target="_blank">
         {% include figure.liquid path="assets/img/film/6499289f-31db-4fbb-abd0-2edf03b63f07.JPEG" class="img-fluid rounded z-depth-1" %}
       </a>
@@ -73,6 +73,11 @@ images:
     <div class="col mb-3">
       <a href="{{ 'assets/img/film/IMG_0985.JPEG' | relative_url }}" data-pswp-width="904" data-pswp-height="599" target="_blank">
         {% include figure.liquid path="assets/img/film/IMG_0985.JPEG" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+    <div class="col-md-8 mb-3">
+      <a href="{{ 'assets/img/film/IMG_0222-1.JPEG' | relative_url }}" data-pswp-width="1940" data-pswp-height="1287" target="_blank">
+        {% include figure.liquid path="assets/img/film/IMG_0222-1.JPEG" class="img-fluid rounded z-depth-1" %}
       </a>
     </div>
   </div>
