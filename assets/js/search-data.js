@@ -42,7 +42,7 @@ ninja.data = [{
               window.location.href = "/projects/craft/";
             },},{id: "projects-fuzzing-harness-generator-for-patch-completeness",
           title: 'fuzzing harness generator for patch completeness',
-          description: "Automatically generating a set of fuzzing harnesses conditioned on the root cause of the reported vulnerability to surface sibling bugs in candidate patches for patch completeness testing.",
+          description: "Automatically generating a set of fuzzing harnesses conditioned on the root cause of a vulnerability to surface sibling bugs in overfitting patches.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fuzzing-harness/";
             },},{id: "projects-where-do-reasoning-models-refuse",
