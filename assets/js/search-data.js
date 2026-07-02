@@ -50,6 +50,11 @@ ninja.data = [{
           description: "Investigating where safety decisions are made in reasoning models, through statistical and mechanistic techniques, uncovering interesting differences in reasoning patterns!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/reasoning-refusal/";
+            },},{id: "projects-playbooks-for-ai-red-and-blue-teaming",
+          title: 'playbooks for AI red and blue teaming',
+          description: "Summarising the playbooks for AI red and blue teaming developed by my team at The Alan Turing Institute and collaborators from The MITRE Corporation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/red-blue/";
             },},{
         id: 'social-email',
         title: 'email',
