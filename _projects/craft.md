@@ -11,11 +11,6 @@ images:
 <div class="pswp-gallery" id="gallery--craft">
   <div class="row row-cols-1 row-cols-md-3">
     <div class="col mb-3">
-      <a href="{{ 'assets/img/film/IMG_3550.JPEG' | relative_url }}" data-pswp-width="3089" data-pswp-height="2048" target="_blank">
-        {% include figure.liquid path="assets/img/film/IMG_3550.JPEG" class="img-fluid rounded z-depth-1" %}
-      </a>
-    </div>
-    <div class="col mb-3">
       <a href="{{ 'assets/img/film/IMG_3582.JPEG' | relative_url }}" data-pswp-width="3089" data-pswp-height="2048" target="_blank">
         {% include figure.liquid path="assets/img/film/IMG_3582.JPEG" class="img-fluid rounded z-depth-1" %}
       </a>
@@ -70,11 +65,16 @@ images:
         {% include figure.liquid path="assets/img/film/IMG_0985.JPEG" class="img-fluid rounded z-depth-1" %}
       </a>
     </div>
+        </div>
+        <div class="col mb-3">
+      <a href="{{ 'assets/img/film/IMG_3550.JPEG' | relative_url }}" data-pswp-width="3089" data-pswp-height="2048" target="_blank">
+        {% include figure.liquid path="assets/img/film/IMG_3550.JPEG" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
     <div class="col-md-8 mb-3">
       <a href="{{ 'assets/img/film/IMG_0222-1.JPEG' | relative_url }}" data-pswp-width="1940" data-pswp-height="1287" target="_blank">
         {% include figure.liquid path="assets/img/film/IMG_0222-1.JPEG" class="img-fluid rounded z-depth-1" %}
       </a>
-    </div>
     <div class="col mb-3">
       <a href="{{ 'assets/img/film/IMG_0525.JPEG' | relative_url }}" data-pswp-width="2279" data-pswp-height="1535" target="_blank">
         {% include figure.liquid path="assets/img/film/IMG_0525.JPEG" class="img-fluid rounded z-depth-1" %}

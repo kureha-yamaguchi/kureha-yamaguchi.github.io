@@ -12,7 +12,7 @@ importance: 4
 
 ### Motivation:
 
-The playbooks were motivated by the gulf between state of the art and state of the practice in AI security. The state of the art in adversarial ML literature often consists of novel standalone adversarial and mitigation techniques. These methods deal with toy problems rather than real systems, and we lack a framework to make them realizable. On the other hand, the state of the practice in a fiercely competitive landscape is that we are deploying AI systems faster than they can be security tested and defended. With developers under pressure to deliver on functionality and performance as quickly as possible, security is too often left as an afterthought.([source](https://atlas.mitre.org/studies/AML.CS0004))
+The playbooks were motivated by the gulf between state of the art and state of the practice in AI security. The state of the art in adversarial ML literature often consists of novel standalone adversarial and mitigation techniques. These methods deal with toy problems rather than real systems, and we lack a framework to make them realizable. On the other hand, the state of the practice in a fiercely competitive landscape is that we are deploying AI systems faster than they can be security tested and defended. With developers under pressure to deliver on functionality and performance as quickly as possible, security is too often left as an afterthought ([source](https://atlas.mitre.org/studies/AML.CS0004)).
 
 ### Takeaway 1: We need iteration and collaboration between security and development teams before deployment
 
