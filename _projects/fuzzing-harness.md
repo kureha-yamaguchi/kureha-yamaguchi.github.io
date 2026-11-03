@@ -15,11 +15,6 @@ Accepted at the Applied ML for Cyber Security Conference 2026; project still in 
 
 Project Zero's tracking of in-the-wild zero-days reveals 1 in 4 detected exploits could plausibly have been prevented by a more complete fix that closed the root cause, not just the reported PoV. Unfortunately, patch completeness testing is time-consuming, difficult to automate and varies in quality. This is because the process demands deep contextual understanding of the codebase to reason about the full space of variant inputs and code paths reaching the root cause of a vulnerability. Recent work on AI-generated patches at the DARPA AIxCC challenge finds 20-40\% of its 630 AI-generated patches to be semantically incorrect; they compile, block the known exploit, and pass existing tests, but do not properly close the root cause. Therefore, as frontier models accelerate both bug discovery and patch generation, the bottleneck shifts to patch validation. In light of this growing strain on human reviewers, it is important to create tools that can improve the speed and quality of patch completeness testing.
 
-Let $\mathbb{R}$ be the root-cause region, $\mathbb{F}(H_N)$ is the fuzzer coverage from the naïve unconditioned harness set and $\mathbb{F}(H_R)$ is the fuzzer coverage from the root-cause conditioned harness set.
-
-{% include figure.liquid path="assets/img/fuzzing_harness/harness_schem.png" class="img-fluid rounded z-depth-1" %}
-
-
 ### Developing pipeline on ASSERT-KTH/Defects4J ground truths:
 
 We present an automated pipeline for such testing. The system takes in \{PoV\} + \{extracted call graph\} and generates \{a set of fuzzing harnesses conditioned on the root cause of the reported vulnerability\}. During evaluation, a fuzzing engine is run over the set of harnesses, with a single crash within the set indicating a positive case (overfitting patches) and no crash indicating a negative case (semantically correct patches). We use libraries like fuzz-introspector and javalang to efficiently extract required contextual understanding of the codebase most relevant to the reported bug, which the LLM can leverage. Unlike previous work by OSS-Fuzz-Gen, whose harnesses are optimised for naïve code coverage of a named target function, our harnesses are optimised for the coverage of the root-cause region to surface sibling bugs.
