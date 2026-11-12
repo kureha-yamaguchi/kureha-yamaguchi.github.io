@@ -80,5 +80,20 @@ images:
         {% include figure.liquid path="assets/img/film/IMG_0525.JPEG" class="img-fluid rounded z-depth-1" %}
       </a>
     </div>
+    <div class="col mb-3">
+      <a href="{{ 'assets/img/film/72900002.jpg' | relative_url }}" data-pswp-width="1940" data-pswp-height="1287" target="_blank">
+        {% include figure.liquid path="assets/img/film/72900002.jpg" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+    <div class="col-md-8 mb-3">
+      <a href="{{ 'assets/img/film/72900021.JPG' | relative_url }}" data-pswp-width="1940" data-pswp-height="1287" target="_blank">
+        {% include figure.liquid path="assets/img/film/72900021.JPG" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+    <div class="col mb-3">
+      <a href="{{ 'assets/img/film/cb1b13a4-4912-41c5-8e58-be42857f2e23.JPG' | relative_url }}" data-pswp-width="2048" data-pswp-height="1356" target="_blank">
+        {% include figure.liquid path="assets/img/film/cb1b13a4-4912-41c5-8e58-be42857f2e23.JPG" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
   </div>
 </div>
